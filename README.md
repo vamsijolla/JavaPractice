@@ -1,2 +1,2 @@
 # JavaPractice
-Code Practice
+This is for my code practice in Java
